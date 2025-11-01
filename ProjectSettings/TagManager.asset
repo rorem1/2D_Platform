@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - OneWayPlatform
+  - Text
+  - Gate
+  - Bullet
+  - EnemyBullet
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1372154835
+    locked: 0
+  - name: Monster
+    uniqueID: 3909641347
+    locked: 0
+  - name: Ground
+    uniqueID: 3019358027
+    locked: 0
+  - name: Player
+    uniqueID: 2924460651
+    locked: 0
+  - name: Text
+    uniqueID: 1677285717
+    locked: 0
